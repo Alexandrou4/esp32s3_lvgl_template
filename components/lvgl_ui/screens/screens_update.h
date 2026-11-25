@@ -17,8 +17,8 @@
  */
 typedef enum {
     /* Add application-specific commands here, e.g.: */
-    /* UI_UPDATE_TEMPERATURE, */
-    /* UI_UPDATE_CONNECTION,  */
+    UI_UPDATE_TEMPERATURA,
+    UI_UPDATE_CONEXION,
     UI_UPDATE_MAX
 } ui_update_cmd_t;
 
